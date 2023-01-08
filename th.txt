@@ -1,0 +1,15 @@
+Data types
+
+operator in python:- 
+type operator
+arithmatic operator +,-,*,/,%,// - > floor,** --> power
+comparison operator <,>,<=,>=,==,!=
+logical operator and,or,not
+bitwise operator &,|,^,~,<<,>>
+assignment operator =,+=,-=,*=,/=,%=,//=,**=
+membership operator in,not in
+identity operator is,is not
+ternary operator ?:
+
+if else
+loops 

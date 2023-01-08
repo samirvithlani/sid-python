@@ -1,0 +1,1 @@
+# and or operator tenery having 3 number and store in variable
