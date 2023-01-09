@@ -11,5 +11,6 @@ membership operator in,not in
 identity operator is,is not
 ternary operator ?:
 
-if else
 loops 
+
+
