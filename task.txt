@@ -6,3 +6,7 @@ amount 2550
 500 1
 100 0
 50 1
+
+
+create an array and remove palndrome number from it
+create an array and remove duplicate elements from it
