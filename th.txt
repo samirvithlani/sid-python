@@ -13,4 +13,17 @@ ternary operator ?:
 
 loops 
 
+* custome sort remaining....
+
+q)
+list =-> string
+[a,b,c,a,b,c,z,x]
+unique =-> [a,b,c,z,x]
+duplicate [a,b,c]
+
+q)remove numberss from list...
+
+q)list of string --> len > 3 new list comprehension
+
+
 
