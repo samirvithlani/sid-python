@@ -9,5 +9,4 @@ sqlist =[]
     
 sqlist = [i for i in list if i %2 ==0 and i > 50]
 
-
 print(sqlist)

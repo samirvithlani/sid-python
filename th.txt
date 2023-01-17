@@ -26,4 +26,15 @@ q)remove numberss from list...
 q)list of string --> len > 3 new list comprehension
 
 
+["mi","csk","gt"]
+[("r","b"),("d","j"),("h","k")]
+[[150,10],[250,45],[180,85]]
+
+
+-->
+which team has heighest score
+which player has heighest score
+
+
+
 

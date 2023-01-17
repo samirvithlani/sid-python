@@ -1,0 +1,5 @@
+list --> [index,mutable,duplicate]
+set{hashtable -->unique,unordered}
+tuple --> (index,immutable)
+{key:value}
+st1:[studentas]
