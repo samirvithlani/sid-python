@@ -35,6 +35,9 @@ q)list of string --> len > 3 new list comprehension
 which team has heighest score
 which player has heighest score
 
+lambda with tuple,dictonary
+lamba with set comperihansion
+
 
 
 
