@@ -1,0 +1,90 @@
+what is an exception ?
+excepton are raised when is code syntacitally correct, but the code result is ann error, 
+
+10 /0 infinty --->excpetion
+
+it needs to be handled by the programmer,
+
+thear are two types of exception
+1. built in exception
+2. user defined exception
+
+
+BaseException
+  SystemExit
+  KeyboardInterrupt
+  Exception
+  GeneratorExit
+        StopIteration
+        StandardError
+            BufferError
+            ArithmeticError
+            FloatingPointError
+            OverflowError
+            ZeroDivisionError
+            AssertionError
+            AttributeError
+            EnvironmentError
+            IOError
+            OSError
+                WindowsError (Windows)
+                VMSError (VMS)
+            EOFError
+            ImportError
+            LookupError
+            IndexError
+            KeyError
+            MemoryError
+            NameError
+            UnboundLocalError
+            ReferenceError
+            RuntimeError
+            NotImplementedError
+            SyntaxError
+            SystemError
+            TypeError
+            ValueError
+            UnicodeError
+                UnicodeDecodeError
+                UnicodeEncodeError
+                UnicodeTranslateError
+            Warning
+            DeprecationWarning
+            PendingDeprecationWarning
+            RuntimeWarning
+            SyntaxWarning
+            UserWarning
+            FutureWarning
+            ImportWarning
+            UnicodeWarning
+            BytesWarning
+            ResourceWarning
+
+
+how to handle exception ???
+try:
+    code
+except:
+    code
+else:
+    code
+finally:
+    code
+
+try except and finally block to handle a exception
+
+after single try block we can write n except block
+after single try block we can write 1 finally block
+atleast one except or finally block required after a try block  
+
+
+
+what is dif bw exception and error??
+it' because of invalid syntax, it leads to termination of program,
+if : error.... 
+
+it needs to resolve first....
+
+
+raising the exception
+the raise statemet allows programmer to force a specific exception to occur

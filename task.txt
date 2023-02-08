@@ -10,3 +10,10 @@ amount 2550
 
 create an array and remove palndrome number from it
 create an array and remove duplicate elements from it
+
+
+IndexError
+IndexError: list index out of range
+ArithmeticError:--> 
+raise
+KeyboardInterrupt --> ctrl+c
