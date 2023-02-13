@@ -1,0 +1,46 @@
+oop -->
+inheritance
+abstractoin
+polymporphism
+encapsulation
+    class 
+    object
+
+class: - a class is collection of objects, A class contains the blueprint or the 
+prototype of the object. A class is a logical entity. It is a user defined data type.
+
+
+class keyword is used to define a class in python
+
+object : -THE OBJECT IS AN ENTITY of class.
+
+
+class      object
+Fruit       apple
+Vehile      car
+Animal      dog
+School      student
+
+fruit has apple 
+apple is fruit
+
+
+State:
+it is represented by the attribute of an objectm it also reflects the properties of an object.
+Behaviour:
+it is represented by the method of an object, it also reflects the action of an object.
+
+Identity:
+it gives a unique name to an object and enables one object to interact with another object.
+
+__init__ method:
+
+the init method is simialar to constructor in c++ and java, 
+it is used to initialize the attributes of an object.
+
+self:
+self is a reference variable that refers to the current object.
+
+
+
+
