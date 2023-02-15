@@ -38,6 +38,65 @@ which player has heighest score
 lambda with tuple,dictonary
 lamba with set comperihansion
 
+inheritance :- child / sub class / derived class can use properties of parent class / base class called inheritance...
+use ? reusbality of code...
+vice versa is not possible...
+
+1)single inheritance
+
+    A --> B
+
+2)multiple inheritance
+
+                A
+            B       C
+
+
+            x     y
+                z    
+
+
+3)multilevel inheritance
+    
+        A --> B --> C
+4)hierarchical inheritance
+
+
+                            A
+                       b          C     
+                 p         q  m        n      
+
+
+
+
+5)hybrid inheritance
+a --> b --> c
+        d
+        e
+        f
+
+super calass object class
+
+class Demo:
+class Demo(object):
+
+
+ECOMMERCE:
+productcategory eletroincs ,Fashion,home and kitchen,books,beauty and personal care,health and personal care,automoti
+product , iphone  --> eletroincs
+
+AS A ADMIN
+
+1)add product
+2)view product
+3)update product
+4)delete product
+5)search product --> by name,by category,by price - >range --> 1000-2000
+
+
+
+
+
 
 
 
